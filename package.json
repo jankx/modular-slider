@@ -1,5 +1,5 @@
 {
-  "name": "modular-slider",
+  "name": "@jankx/modular-slider",
   "version": "0.11.2",
   "license": "ISC",
   "description": "A zero dependency slider with a modular approach, written in Typescript",
